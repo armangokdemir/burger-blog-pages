@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400|Open+Sans:300,700');
+
+@font-face {
+                          font-family: "IBMPlexSans";
+                          src: url('../fonts/IBMPlexSans-Regular.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "OpenSans-Regular";
+                          src: url('../fonts/OpenSans-Regular.ttf') format("truetype");
+                        }
+                        
+.page5 {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(34, 34, 34, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.page5 .a45092 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -348px;
+  height              : 1849px;
+  width               : 1864px;
+  position            : absolute;
+  margin              : 0;
+  left                : -180px;
+  -ms-transform       : rotate(-16deg); /* IE 9 */
+  -webkit-transform   : rotate(-16deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-16deg);
+  opacity             : 0.17;
+}
+.page5 .rectangle {
+  background-color    : rgba(34, 34, 34, 1.0);
+  top                 : 0px;
+  height              : 122px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page5 .makeburgercopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 33px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 636px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "IBMPlexSans", Helvetica, Arial, serif;
+  font-size           : 42.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.62px;
+  line-height         : 55.0px;
+}
+.page5 .a18109copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 33px;
+  height              : 57px;
+  width               : 57px;
+  position            : absolute;
+  margin              : 0;
+  left                : 549px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page5 .rectangle1 {
+  background-color    : rgba(132, 132, 132, 1.0);
+  top                 : 184px;
+  height              : 656px;
+  width               : 1195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.57;
+}
+.page5 .staytunedanddont {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 161px;
+  height              : auto;
+  width               : 888px;
+  position            : absolute;
+  margin              : 0;
+  left                : 163px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "IBMPlexSans", Helvetica, Arial, serif;
+  font-size           : 34.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.31px;
+  line-height         : 34.0px;
+}
+.page5 .staytunedanddont .span1 {
+  line-height         : 44.0px;
+}
+.page5 .staytunedanddont .span2 {
+  font-size           : 85.0px;
+  letter-spacing      : 3.27px;
+  line-height         : 110.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

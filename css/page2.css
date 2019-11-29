@@ -1,0 +1,546 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400|Open+Sans:300,700');
+
+@font-face {
+                          font-family: "IBMPlexSans";
+                          src: url('../fonts/IBMPlexSans-Regular.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "OpenSans-Regular";
+                          src: url('../fonts/OpenSans-Regular.ttf') format("truetype");
+                        }
+                        
+.page2 {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1456px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(243, 243, 243, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.page2 .a44998 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -492px;
+  height              : 2513px;
+  width               : 2513px;
+  position            : absolute;
+  margin              : 0;
+  left                : -729px;
+  -ms-transform       : rotate(-26deg); /* IE 9 */
+  -webkit-transform   : rotate(-26deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-26deg);
+}
+.page2 .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -5px;
+  height              : 690px;
+  width               : 1462px;
+  position            : absolute;
+  margin              : 0;
+  left                : -11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .manburger {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 146px;
+  height              : 760px;
+  width               : 507px;
+  position            : absolute;
+  margin              : 0;
+  left                : 810px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.page2 .manburger:hover {
+  transform           : translate(0, -5px);
+}
+.page2 .manburger .mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 760px;
+  width               : 507px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .manburger .pablomerchanmonteshyie90cn6b0unsplash1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -25px;
+  height              : 809px;
+  width               : 539px;
+  position            : absolute;
+  margin              : 0;
+  left                : -16px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .whatgoesintoyour {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 158px;
+  height              : auto;
+  width               : 1020px;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 85.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 3.27px;
+  line-height         : 100.0px;
+}
+.page2 .burger2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1025px;
+  height              : 238px;
+  width               : 239px;
+  position            : absolute;
+  margin              : 0;
+  left                : 859px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .burger2 .mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 238px;
+  width               : 238px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .burger2 .nikmacmillanf2m418zmmaunsplashcopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -300px;
+  height              : 602px;
+  width               : 903px;
+  position            : absolute;
+  margin              : 0;
+  left                : -171px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .burger1 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 1067px;
+  height              : 238px;
+  width               : 238px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1139px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .burger1 .mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 238px;
+  width               : 238px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .burger1 .nikmacmillanf2m418zmmaunsplashcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -342px;
+  height              : 602px;
+  width               : 903px;
+  position            : absolute;
+  margin              : 0;
+  left                : -451px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .burger3 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 787px;
+  height              : 238px;
+  width               : 238px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1139px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .burger3 .mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 238px;
+  width               : 238px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .burger3 .nikmacmillanf2m418zmmaunsplashcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -62px;
+  height              : 602px;
+  width               : 903px;
+  position            : absolute;
+  margin              : 0;
+  left                : -451px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .burger4 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 744px;
+  height              : 239px;
+  width               : 238px;
+  position            : absolute;
+  margin              : 0;
+  left                : 859px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .burger4 .mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 1px;
+  height              : 238px;
+  width               : 238px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .burger4 .nikmacmillanf2m418zmmaunsplash {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -19px;
+  height              : 602px;
+  width               : 903px;
+  position            : absolute;
+  margin              : 0;
+  left                : -171px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .a18109 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 33px;
+  height              : 57px;
+  width               : 57px;
+  position            : absolute;
+  margin              : 0;
+  left                : 549px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .makeburger {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 33px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 636px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "IBMPlexSans", Helvetica, Arial, serif;
+  font-size           : 42.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.62px;
+  line-height         : 55.0px;
+}
+.page2 .a67827 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 710px;
+  height              : 36px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .step2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 702px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 86px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size           : 38.0px;
+  color               : rgba(31, 31, 31, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.46px;
+  line-height         : 52.0px;
+}
+.page2 .phasellusatlibero {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 768px;
+  height              : auto;
+  width               : 765px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 32.0px;
+  color               : rgba(31, 31, 31, 1.0);
+  text-align          : justify;
+  letter-spacing      : 1.23px;
+  line-height         : 43.0px;
+}
+.page2 .donecquispellentes {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 895px;
+  height              : auto;
+  width               : 815px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 32.0px;
+  color               : rgba(31, 31, 31, 1.0);
+  text-align          : justify;
+  letter-spacing      : 1.23px;
+  line-height         : 43.0px;
+}
+.page2 .rectangle1 {
+  background-color    : rgba(114, 114, 114, 1.0);
+  top                 : 1361px;
+  height              : 62px;
+  width               : 62px;
+  position            : absolute;
+  margin              : 0;
+  left                : 586px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .rectanglecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1361px;
+  height              : 62px;
+  width               : 62px;
+  position            : absolute;
+  margin              : 0;
+  left                : 689px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .rectanglecopy2 {
+  background-color    : rgba(114, 114, 114, 1.0);
+  top                 : 1361px;
+  height              : 62px;
+  width               : 62px;
+  position            : absolute;
+  margin              : 0;
+  left                : 793px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .a1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1366px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 605px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 38.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  letter-spacing      : 1.46px;
+  line-height         : 52.0px;
+}
+.page2 .a2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1366px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 708px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 38.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  letter-spacing      : 1.46px;
+  line-height         : 52.0px;
+}
+.page2 .a3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1366px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 812px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 38.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  letter-spacing      : 1.46px;
+  line-height         : 52.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
